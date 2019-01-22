@@ -1,0 +1,1 @@
+INDEX VERSION 1.130+C:\Users\windows 8.1\eclipse-workspace\.metadata\.plugins\org.eclipse.jdt.core

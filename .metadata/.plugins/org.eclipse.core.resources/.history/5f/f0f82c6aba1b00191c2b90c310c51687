@@ -1,0 +1,36 @@
+
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<meta name="author" content="">
+<title>Ibot</title>
+<!-- Bootstrap Css -->
+<link rel='stylesheet' href='/bootstrap/css/bootstrap.min.css' />
+
+<!-- Custom Css -->
+<link rel='stylesheet' href='/stylesheets/style.css' />
+<!-- Font awesome-->
+<link rel='stylesheet' href='/bootstrap/fonts/font-awesome.min.css' />
+
+</head>
+<body>
+
+	<header>
+	<h2>kjbknskcnskcnskcnscs</h2>
+	</header>
+	
+	
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script src="javascripts/jquery.min.js"></script>
+
+	<!--  Include all compiled plugins (below), or include individual files as needed  -->
+	<script src="bootstrap/js/bootstrap.min.js"></script>
+
+	<!-- js file -->
+	<script src="javascripts/custom.js"></script>
+	
+</body>
+</html>

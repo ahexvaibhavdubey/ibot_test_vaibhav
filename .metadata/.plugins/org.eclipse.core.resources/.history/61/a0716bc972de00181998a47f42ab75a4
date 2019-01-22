@@ -1,0 +1,36 @@
+<!-- <html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+Bootstrap Css
+
+<link rel='stylesheet' href='/bootstrap/css/bootstrap.min.css' />
+
+Custom Css
+<link rel='stylesheet' href='/stylesheets/Contact_Section.css' />
+<link rel='stylesheet' href='/stylesheets/DMANTZ_Home_Page.css' />
+Font awesome
+<link rel='stylesheet' href='/bootstrap/css/font-awesome.min.css' />
+    
+</head>
+<body>i
+<div>
+<h2>Careers
+
+	Associate Developers :
+
+Are you A B.Tech/M.Tech/MCA with lot of interest in Software Development. We evaluate you based on tests and interview and take you as Pre-Trainee.
+
+	Stage 1:  3 months period : As Pre-Trainee with Stipend.
+     		We validate your passion to learn technology during this period. You will start learning technologies and more importantly adopt best ways of learning new technologies.
+
+	Stage 2:  9 months period: As Trainee with enhanced Stipend
+
+	Speed up learning process and become a quality and speed coder during this time. One has to be open to adopt any technology in a quick and focused manner.Along with that you are expected to learn to think as solution provider. Also you are expected to learn value system of company, enhance communication skills, writing skills.
+</h2>
+</div>
+<script src="javascripts/jic_common.js"></script>
+	<script src="javascripts/jquery.min.js"></script>
+	<script src="bootstrap/js/bootstrap.min.js"></script>
+	<script type="text/javascript">
+	</script>
+</body> -->

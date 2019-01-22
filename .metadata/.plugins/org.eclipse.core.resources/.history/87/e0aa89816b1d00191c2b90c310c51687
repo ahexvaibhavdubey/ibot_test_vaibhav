@@ -1,0 +1,130 @@
+
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport"
+	content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<meta name="description" content="">
+<meta name="author" content="">
+<title>Ibot</title>
+<!-- Bootstrap Css -->
+<link rel='stylesheet' href='/bootstrap/css/bootstrap.min.css' />
+
+<!-- Custom Css -->
+<link rel='stylesheet' href='/stylesheets/style.css' />
+<!-- Font awesome-->
+<link rel='stylesheet' href='/bootstrap/fonts/font-awesome.min.css' />
+
+</head>
+<body>
+    <h2 class="top-heading">SETTINGS</h2>
+	<div class="col-sm-12 tabs-container">
+		<div class="col-md-3">
+			<ul class="nav nav-tabs tabs-left">
+				<li class="active"><a href="#tab1-v" data-toggle="tab"><h3>Wifi
+							Setting<i class="fa fa-angle-right right-arrow" aria-hidden="true"></i></h3></a></li>
+				<li><a href="#tab2-v" data-toggle="tab"><h3>GSM
+							Setting<i class="fa fa-angle-right right-arrow" aria-hidden="true"></i></h3></a></li>
+				<li><a href="#tab3-v" data-toggle="tab"><h3>Ethernet
+							Setting<i class="fa fa-angle-right right-arrow" aria-hidden="true"></i></h3></a></li>
+				<!--  <li><a href="#tab4-v" data-toggle="tab">Tab 4</a></li> -->
+			</ul>
+		</div>
+
+		<div class="col-md-9">
+			
+			<div class="tab-content">
+				<div class="tab-pane active" id="tab1-v">
+					<!-- <div class="col-md-6 col-sm-12 border-right"> -->
+					<ul>
+						<li><h3 class="button-wifi">Wifi on</h3> <label class="switch"> <input
+								type="checkbox" checked> <span class="slider round"></span>
+						</label></li>
+						<li>Available Network</li>
+						<li><i class="fa fa-wifi" aria-hidden="true"></i>iBot
+							<button type="button" class="btn btn-warning">Edit</button></li>
+						<li><i class="fa fa-wifi" aria-hidden="true"></i>iBot-2
+							<button type="button" class="btn btn-warning">Connect</button></li>
+						<li><i class="fa fa-wifi" aria-hidden="true"></i>iBot-3
+							<button type="button" class="btn btn-warning">Connect</button></li>
+					</ul>
+					<!--  </div> -->
+					<!--  <div class="col-md-6 col-sm-12">
+          <p>paragraph of text goes here if needed.</p>
+        </div> -->
+					<div class="clearfix"></div>
+
+				</div>
+				<div class="tab-pane" id="tab2-v">
+					<div class="col-md-12 border-right">
+						<p>paragraph of text goes here if needed.</p>
+						<ul>
+							<li>tab 2 - list item 1</li>
+							<li>tab 2 - list item 2</li>
+						</ul>
+					</div>
+					<!-- <div class="col-md-6 col-sm-12">
+          <p>paragraph of text goes here if needed.</p>
+          <p>paragraph of text goes here if needed.</p>
+          <p>paragraph of text goes here if needed.</p>
+        </div> -->
+					<div class="clearfix"></div>
+				</div>
+				<div class="tab-pane" id="tab3-v">
+					<div class="col-md-12 border-right">
+						<ul>
+							<li>tab 3 - list item 1</li>
+							<li>tab 3 - list item 2</li>
+							<li>tab 3 - list item 3</li>
+						</ul>
+						<p>paragraph of text goes here if needed.</p>
+						<p>paragraph of text goes here if needed.</p>
+					</div>
+					<!--  <div class="col-md-6 col-sm-12">
+          <p>paragraph of text goes here if needed.</p>
+          <p>paragraph of text goes here if needed.</p>
+        </div> -->
+					<div class="clearfix"></div>
+				</div>
+				<div class="tab-pane" id="tab4-v">
+					<div class="col-md-6 col-sm-12 border-right">
+						<p>paragraph of text goes here if needed.</p>
+						<ul>
+							<li>tab 4 - list item 1</li>
+							<li>tab 4 - list item 2</li>
+							<li>tab 4 - list item 3</li>
+							<li>tab 4 - list item 4</li>
+						</ul>
+						<p>paragraph of text goes here if needed.</p>
+						<div class="clearfix"></div>
+					</div>
+					<div class="col-md-6 col-sm-12">
+						<p>paragraph of text goes here if needed.</p>
+						<p>paragraph of text goes here if needed with responsive video
+							player iframe.</p>
+						<div class="videoWrapper">
+							<iframe width="560" height="315"
+								src="https://www.youtube.com/embed/Xithigfg7dA" frameborder="0"
+								allowfullscreen></iframe>
+						</div>
+					</div>
+					<div class="clearfix"></div>
+				</div>
+			</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+
+
+
+	<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+	<script src="javascripts/jquery.min.js"></script>
+
+	<!--  Include all compiled plugins (below), or include individual files as needed  -->
+	<script src="bootstrap/js/bootstrap.min.js"></script>
+
+	<!-- js file -->
+	<script src="javascripts/custom.js"></script>
+
+</body>
+</html>

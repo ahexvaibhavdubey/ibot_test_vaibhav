@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Ecomerce_jewellery/views/backup_ejs&apos; to &apos;backup.ejs&apos;" description="Rename resource &apos;backup_ejs&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="views/backup_ejs" name="backup.ejs" stamp="1545071385430" updateReferences="true"/>
+</session>
